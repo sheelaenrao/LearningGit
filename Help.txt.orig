@@ -2,6 +2,9 @@ Help document
 help1
 help2
 this line will be deleted
+<<<<<<< HEAD
 am in master branch
+=======
 am in check branch
 
+>>>>>>> check
