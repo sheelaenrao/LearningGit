@@ -1,0 +1,13 @@
+Line 1
+line2
+line3
+<<<<<<< HEAD
+for each ()
+{
+console.writeline();
+=======
+foreach (var emp in emps)
+{
+
+>>>>>>> check
+}
