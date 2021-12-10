@@ -1,4 +1,3 @@
-Line 0 added by Sheela
 Line 1
 line2
 line3
