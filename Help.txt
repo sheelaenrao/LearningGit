@@ -1,7 +1,0 @@
-Help document
-help1
-help2
-this line will be deleted
-am in master branch
-am in check branch
-
